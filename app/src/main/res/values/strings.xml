@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment5</string>
+    <string name="action_settings">Settings</string>
+
+    <color name="cyan">#00FFFF</color>
+    <color name="yellow">#FFFF00</color>
+</resources>
